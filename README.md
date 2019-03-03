@@ -1,6 +1,10 @@
 # Web Font Library using SCSS
 
-[![Build Status](https://travis-ci.org/mvandrew/scss-fonts.svg?branch=master)](https://travis-ci.org/mvandrew/scss-fonts) ![](https://img.shields.io/npm/v/scss-fonts.svg?label=npm%20package&style=flat)
+[![NPM](https://nodei.co/npm/scss-fonts.png)](https://nodei.co/npm/scss-fonts/)
+
+[![Build Status](https://travis-ci.org/mvandrew/scss-fonts.svg?branch=master)](https://travis-ci.org/mvandrew/scss-fonts) 
+![](https://img.shields.io/npm/v/scss-fonts.svg?label=npm%20package&style=flat)
+[![devDependency Status](https://david-dm.org/mvandrew/scss-fontse/dev-status.svg)](https://david-dm.org/mvandrew/scss-fonts#info=devDependencies)
 
 Web-шрифты с описанием подключения в SCSS. Сборник включает в себя шрифты часто применяемые на моих Web-проектах.
 
@@ -12,16 +16,31 @@ Web-шрифты с описанием подключения в SCSS. Сбор�
 * Roboto
 * Roboto Slab
 * [Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
+* a_GroticLtNr
+* Malgun Gothic
+* Museo Sans Cyrl
 
-## Включение репозитория к себе в проект
+## Установка
 
-### Клонирование репозитория
+### Установка с использованием пакетных менеджеров
 
-    git clone https://github.com/mvandrew/scss-fonts.git src/assets/templates/(Template Name)/fonts
+**npm**: 
+
+    $ npm install --save-dev scss-fonts
+
+**yarn**:
+
+    $ yarn add -D scss-fonts
+
+### Включение репозитория к себе в проект
+
+#### Клонирование репозитория
+
+    $ git clone https://github.com/mvandrew/scss-fonts.git src/assets/templates/(Template Name)/fonts
     
-### Добавление подмодуля к репозиторию проекта
+#### Добавление подмодуля к репозиторию проекта
 
-    git submodule add https://github.com/mvandrew/scss-fonts.git src/assets/templates/(Template Name)/fonts
+    $ git submodule add https://github.com/mvandrew/scss-fonts.git src/assets/templates/(Template Name)/fonts
     
 ## Сборка проекта с использованием [Gulp](https://gulpjs.com/)
 
