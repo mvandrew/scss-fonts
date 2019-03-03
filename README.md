@@ -1,6 +1,8 @@
-# Web-шрифты с описанием подключения в SCSS
+# Web Font Library using SCSS
 
-Сборник включает в себя шрифты часто применяемые на моих Web-проектах.
+[![Build Status](https://travis-ci.org/mvandrew/scss-fonts.svg?branch=master)](https://travis-ci.org/mvandrew/scss-fonts) ![](https://img.shields.io/npm/v/scss-fonts.svg?label=npm%20package&style=flat)
+
+Web-шрифты с описанием подключения в SCSS. Сборник включает в себя шрифты часто применяемые на моих Web-проектах.
 
 Подключение с использованием SCSS позволяет быстро менять относительное расположение файлов шрифта и таблиц стилей.
 
