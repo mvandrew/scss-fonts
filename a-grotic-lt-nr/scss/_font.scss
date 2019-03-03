@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/// @content a_GroticLtNr font declaration
+
+@font-face {
+  font-family: $font-a-grotic-lt-nr-family;
+  src:
+          url('#{$font-a-grotic-lt-nr-path}/AGroticLtNrNormal.woff2') format('woff2'),
+          url('#{$font-a-grotic-lt-nr-path}/AGroticLtNrNormal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

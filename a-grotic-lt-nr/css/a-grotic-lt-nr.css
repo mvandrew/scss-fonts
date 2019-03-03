@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "a_GroticLtNr";
+  src: url("../fonts/AGroticLtNrNormal.woff2") format("woff2"), url("../fonts/AGroticLtNrNormal.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
