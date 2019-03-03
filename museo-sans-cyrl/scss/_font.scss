@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/// @content Museo Sans Cyrl font declaration
+
+@font-face {
+  font-family: $font-museo-sans-cyrl-family;
+  src:
+          url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-500.woff2') format('woff2'),
+          url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $font-museo-sans-cyrl-family;
+  src:
+          url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-700.woff2') format('woff2'),
+          url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-700.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
