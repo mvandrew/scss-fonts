@@ -1,6 +1,6 @@
 {
   "name": "scss-fonts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Web Font Library using SCSS.",
   "main": "gulpfile.js",
   "scripts": {
