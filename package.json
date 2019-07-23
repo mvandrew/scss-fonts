@@ -31,11 +31,12 @@
     "robotoslab"
   ],
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-autoprefixer": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
     "gulp-group-css-media-queries": "^1.2.2",
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "gulp-string-replace": "^1.1.2"
   },
