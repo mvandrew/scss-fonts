@@ -3,6 +3,7 @@
 /// @content Malgun Gothic font declaration
 
 @font-face {
+  font-display: swap;
   font-family: $font-malgun-gothic-family;
   src:
           url('#{$font-malgun-gothic-path}/MalgunGothic-Semilight.woff2') format('woff2'),
@@ -12,6 +13,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: $font-malgun-gothic-family;
   src:
           url('#{$font-malgun-gothic-path}/MalgunGothicRegular.woff2') format('woff2'),

@@ -1,4 +1,5 @@
 @font-face {
+  font-display: swap;
   font-family: "MalgunGothic";
   src: url("../fonts/MalgunGothic-Semilight.woff2") format("woff2"), url("../fonts/MalgunGothic-Semilight.woff") format("woff");
   font-weight: 300;
@@ -6,6 +7,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "MalgunGothic";
   src: url("../fonts/MalgunGothicRegular.woff2") format("woff2"), url("../fonts/MalgunGothicRegular.woff") format("woff");
   font-weight: normal;

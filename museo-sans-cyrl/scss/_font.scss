@@ -3,6 +3,7 @@
 /// @content Museo Sans Cyrl font declaration
 
 @font-face {
+  font-display: swap;
   font-family: $font-museo-sans-cyrl-family;
   src:
           url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-500.woff2') format('woff2'),
@@ -12,6 +13,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: $font-museo-sans-cyrl-family;
   src:
           url('#{$font-museo-sans-cyrl-path}/MuseoSansCyrl-700.woff2') format('woff2'),

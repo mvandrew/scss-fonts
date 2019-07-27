@@ -3,6 +3,7 @@
 /// @content a_GroticLtNr font declaration
 
 @font-face {
+  font-display: swap;
   font-family: $font-a-grotic-lt-nr-family;
   src:
           url('#{$font-a-grotic-lt-nr-path}/AGroticLtNrNormal.woff2') format('woff2'),
