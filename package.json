@@ -28,7 +28,8 @@
     "malgun-gothic",
     "opensans",
     "roboto",
-    "robotoslab"
+    "robotoslab",
+    "robotomono"
   ],
   "devDependencies": {
     "gulp": "^4.0.2",
